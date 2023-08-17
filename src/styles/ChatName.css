@@ -1,0 +1,36 @@
+.chat_name_container {
+	border: 1px solid rgb(82, 82, 82);
+	margin: 6px;
+	border-radius: 5px;
+	display: flex;
+	font-family: sans-serif;
+	padding: 5px;
+	cursor: pointer;
+}
+
+.user_chat_content {
+	/* border: 1px solid red; */
+	width: 100%;
+	margin-left: 7px;
+}
+.user_name {
+	font-size: 1.1vw;
+	color: rgb(197, 197, 197);
+}
+.last_message {
+	font-size: 11px;
+	color: rgb(146, 146, 146);
+}
+.last_seen {
+	font-size: 11px;
+	color: rgb(180, 180, 180);
+	margin-right: 5px;
+}
+.conver_history {
+	/* width: 100%; */
+	display: flex;
+	/* border: 1px solid red; */
+    margin-bottom: 3px;
+	justify-content: space-between;
+	align-items: center;
+}

@@ -1,0 +1,30 @@
+.CG-container {
+	/* border: 1px solid red; */
+	flex: 0.7;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cg-main_component {
+	/* border: 1px solid; */
+	height: 50%;
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	box-shadow: rgba(10, 10, 10, 0.628) 0px 5px 28px;
+	border-radius: 20px;
+}
+
+.gruop_input {
+	border-top: 2px solid green;
+	border-bottom: 2px solid green;
+	width: 60%;
+	color: rgb(250, 250, 250);
+	margin-bottom: 20px;
+	text-align: center;
+	outline: none;
+	background-color: transparent;
+	height: 8%;
+}

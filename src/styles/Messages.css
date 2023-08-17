@@ -1,0 +1,61 @@
+.message_container {
+	/* border: 1px solid red; */
+	font-family: sans-serif;
+	margin-top: 2px;
+}
+
+.message_box {
+	/* border: 1px solid gray; */
+	width: fit-content;
+	display: flex;
+	align-items: center;
+	padding: 2px;
+	margin-left: 10px;
+}
+
+.message_info {
+	padding: 7px;
+	border-radius: 15px;
+	margin-left: 10px;
+	background-color: rgba(103, 255, 103, 0.87);
+	color: rgb(49, 49, 49);
+	font-weight: 500;
+	max-width: 40vw;
+	box-shadow: rgba(201, 239, 255, 0.692) 0px 2px 4px 0px,
+		rgba(181, 233, 255, 0.32) 0px 2px 16px 0px;
+}
+.message {
+	margin-top: 2px;
+	font-size: 1.2vw;
+}
+.namee {
+	font-size: 1vw;
+	margin-top: 1px;
+	font-family: sans-serif;
+}
+.message_time {
+	display: flex;
+	justify-content: end;
+	font-size: 10px;
+	margin-top: 10px;
+}
+
+.self_message_container {
+	font-family: sans-serif;
+	margin-top: 5px;
+	display: flex;
+	justify-content: end;
+}
+
+.self_message_info {
+	padding: 7px;
+	margin-right: 10px;
+	border-radius: 15px;
+	margin-left: 10px;
+	background-color: rgba(185, 185, 185, 0.87);
+	color: rgb(49, 49, 49);
+	font-weight: 500;
+	max-width: 40vw;
+    box-shadow: rgba(201, 239, 255, 0.692) 0px 2px 4px 0px,
+		rgba(181, 233, 255, 0.32) 0px 2px 16px 0px;
+}

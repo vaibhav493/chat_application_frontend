@@ -1,0 +1,44 @@
+.side_bar_container {
+		border: 1px solid rgb(93, 93, 93);
+
+
+    display: flex;
+	flex: 0.3;
+    flex-direction: column;
+  	border-radius: 10px;
+
+}
+
+.search_bar_container {
+	border: 1px solid rgb(93, 93, 93);
+	margin: 4px;
+	height: 30px;
+	border-radius: 5px;
+	margin-top: 7px;
+}
+
+#search_bar {
+	outline: none;
+	background-color: transparent;
+	border: none;
+	height: 100%;
+	width: 100%;
+
+	margin-left: 10px;
+}
+
+.sb_header {
+	border: 1px solid rgb(93, 93, 93);
+	padding: 8px 5px;
+	display: flex;
+	justify-content: space-between;
+	margin: 4px;
+	border-radius: 5px;
+}
+
+.sb_chats {
+	border: 1px solid rgb(93, 93, 93);
+	margin: 5px;
+	border-radius: 5px;
+    flex: 1;
+}

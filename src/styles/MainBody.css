@@ -1,0 +1,8 @@
+.main_container {
+	background-color: #2f2f2f;
+	width: 96vw;
+	height: 96vh;
+	border-radius: 10px;
+	/* border: 1px solid rgb(76, 76, 76); */
+    display: flex;
+}

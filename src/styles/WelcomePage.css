@@ -1,0 +1,22 @@
+.welcome_page_container{
+    /* border: 1px solid red; */
+    flex: 0.7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.welcome_banner{
+
+    /* border: 1px solid green; */
+    height: 95vh;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image_banner{
+    /* border: 1px solid red; */
+    width: 88%;
+    height: 88%;
+}
